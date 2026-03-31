@@ -1,0 +1,10 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"C1";"C_Disc_D5.0mm_W2.5mm_P2.50mm";1;"100nF_Ceramic";;;
+2;"R4";"R_0201_0603Metric";1;"330k_0603";;;
+3;"U1";"DIP-8_W7.62mm";1;"ATtiny85-20P";;;
+4;"R3,R2";"R_0201_0603Metric";2;"68k_0603";;;
+5;"R1";"R_0201_0603Metric";1;"1.5k_0603";;;
+6;"J3";"PinHeader_1x04_P1.27mm_Horizontal";1;"Conn_01x04_Pin";;;
+7;"DZ1,DZ2";"D_SOD-323";2;"UDZ3V6";;;
+8;"J2";"JST_EH_B3B-EH-A_1x03_P2.50mm_Vertical";1;"Conn_01x03_Pin";;;
+9;"D1";"LED_0603_1608Metric";1;"LED";;;
