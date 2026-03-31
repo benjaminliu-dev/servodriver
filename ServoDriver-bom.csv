@@ -1,0 +1,4 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"ATTiny412","The main board",1,0.55,"https://www.digikey.com/en/products/detail/microchip-technology/ATTINY412-SSF/9947539","Digikey"
+"3-Pin JST","To connect to the servos",3,0.13,"https://www.digikey.com/en/products/detail/jst-sales-america-inc/B3B-EH-A/926521","Digikey"
+"5-Pin Header","To connect to external devices",1,0.50,"https://www.digikey.com/en/products/detail/oupiin/2011-1X05G00SB/12148491","Digikey"
